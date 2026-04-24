@@ -121,7 +121,7 @@ def stage2_extract_key_values(clean_lines: list) -> dict:
 def _detect_entities(lines: list, kv: dict, used: set):
     """
     Detect common entities from clean lines when no explicit
-    KEY: VALUE pattern was found for them.
+    KEY: VALUE pattern was found for them.sjvcheviesbfvdibvesihbv
     """
 
     # --- Date (DOB or standalone date) ---
